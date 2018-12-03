@@ -1,0 +1,1 @@
+An example of how to read configuration from appsettings.json in a .NET core console application, as well as adding it to .NET Core DI framework.
